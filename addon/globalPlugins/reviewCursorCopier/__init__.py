@@ -19,7 +19,8 @@ def copyReviewUnitToClipboard(unit, copyFrom=None):
         if copyFrom:
             info.setEndPoint(pos, copyFrom)
         copyStatus = info.copyToClipboard()
-        assert copyStatus == True
+        if not copyStatus:
+            raise RuntimeError
         # Translators: Copying to the clipboard was successful
         ui.message(_("Copied"))
     except:
