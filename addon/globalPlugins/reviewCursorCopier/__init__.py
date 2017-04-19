@@ -21,10 +21,10 @@ def copyReviewUnitToClipboard(unit, copyFrom=None):
         copyStatus = info.copyToClipboard()
         if not copyStatus:
             raise RuntimeError
-        # Translators: Copying to the clipboard was successful
+        # Translators: Copying to the clipboard was successful.
         ui.message(_("Copied"))
     except:
-        # Translators: copying to the clipboard failed
+        # Translators: Copying to the clipboard failed.
         ui.message(_("Failed to copy"))
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
