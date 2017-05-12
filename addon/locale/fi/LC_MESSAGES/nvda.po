@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the reviewCursorCopier package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: reviewCursorCopier\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2017-04-30 00:10+1000\n"
+"PO-Revision-Date: 2017-05-05 15:49+0200\n"
+"Last-Translator: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
+"Language-Team: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translators: Copying to the clipboard was successful.
+msgid "Copied"
+msgstr "Kopioitu"
+
+#. Translators: Copying to the clipboard failed.
+msgid "Failed to copy"
+msgstr "Kopiointi ei onnistu"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Review Cursor Copier"
+msgstr "Tarkastelukohdistimen kopioija"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Provides various commands for copying the text under the review cursor to "
+"the clipboard. Please consult the documentation for more information."
+msgstr ""
+"Tarjoaa eri komentoja tarkastelukohdistimen alla olevan tekstin kopioimiseen "
+"leikepöydälle. Katso lisätietoja ohjeesta."
