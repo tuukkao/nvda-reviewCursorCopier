@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Provides various commands for copying the text under the review cursor to the clipboard. Please consult the documentation for more information."""),
 	# version
-	"addon_version" : "1.0",
+	"addon_version" : "1.1",
 	# Author(s)
 	"addon_author" : u"Tuukka Ojala <tuukka.ojala@gmail.com>",
 	# URL for the add-on documentation support
