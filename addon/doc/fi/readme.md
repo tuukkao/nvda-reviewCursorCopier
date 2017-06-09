@@ -27,5 +27,6 @@ alaisuudessa.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=rccp [2]:
-https://addons.nvda-project.org/files/get.php?file=rccp-dev
+[1]: https://addons.nvda-project.org/files/get.php?file=rccp
+
+[2]: https://addons.nvda-project.org/files/get.php?file=rccp-dev
