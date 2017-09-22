@@ -15,9 +15,9 @@ kopiointiin leikepöydälle. Seuraavat komennot on toteutettu:
 * Kopioi tarkastelukohdistimesta nykyisen sanan loppuun saakka
 
 Oletuksena näillä komennoilla ei ole näppäinkomentoja. Käytä NVDA:n
-Asetukset-valikosta löytyvää Syöte-eleet-valintaikkunaa niiden
+Asetukset-valikosta löytyvää Syötekomennot-valintaikkunaa niiden
 määrittämiseen. Kaikki tämän lisäosan komennot löytyvät "Tekstin tarkastelu"
--kategorian alta. Lisätietoja syöte-eleiden määrittämisestä ja
+-kategorian alta. Lisätietoja syötekomentojen määrittämisestä ja
 muokkaamisesta löytyy NVDA:n käyttöoppaasta.
 
 ## Lisenssi
