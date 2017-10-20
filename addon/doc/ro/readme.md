@@ -1,4 +1,4 @@
-# Copiatorul cursorului de examinare #
+# Review Cursor Copier #
 
 * Autor: Tuukka Ojala <tuukka.ojala@gmail.com>
 * Descărcați [versiunea în dezvoltare][1]
