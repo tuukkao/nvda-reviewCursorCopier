@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.1\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-06-02 18:09+1000\n"
-"PO-Revision-Date: 2017-11-15 16:56-0000\n"
-"Last-Translator: Ângelo Abrantes <ampa4374@gmail.com>\n"
+"PO-Revision-Date: 2017-12-06 10:46+0000\n"
+"Last-Translator: Ângelo Miguel Abrantes <ampa4374@gmail.com>\n"
 "Language-Team: Equipa Portuguesa do NVDA <angelomiguelabrantes@gmail.com; rui.fontes@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Portuguese\n"
-"X-Poedit-Country: PORTUGAL\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #. Translators: Copying to the clipboard was successful.
 msgid "Copied"
@@ -35,5 +34,4 @@ msgstr "Review Cursor Copier"
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Provides various commands for copying the text under the review cursor to the clipboard. Please consult the documentation for more information."
-msgstr "Fornece vários comandos para copiar o texto sob o cursor de revisão para a área de transferência. Consulte a documentação para obter mais informações."
-
+msgstr "Fornece vários  comandos para copiar o texto sob o cursor de revisão para a área de transferência. Consulte a documentação para obter mais informações."
