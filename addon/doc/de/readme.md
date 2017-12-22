@@ -1,25 +1,26 @@
-# Review Cursor Copier #
+# Kopierer für den NVDA-Cursor #
 
 * Autor: Tuukka Ojala<tuukka.ojala@gmail.com>
 * [stabile version][1] herunterladen
 * [Testversion][2] herunterladen
 
-This NVDA add-on provides various commands for copying the text under the
-review cursor to the clipboard. Currently, the following commands are
-implemented:
+Diese NVDA-Erweiterung bietet verschiedene Befehle, um den Text unter dem
+NVDA-Cursor in die Zwischenablage zu kopieren. Derzeit sind folgende Befehle
+implementiert:
 
-* Copy the line under the review cursor
-* Copy the word under the review cursor
-* Copy from the start of the current line to the review cursor
-* Copy from the review cursor to the end of the current line
-* Copy from the start of the current word to the review cursor
-* Copy from the review cursor to the end of the current word
+* Zeile unter dem NVDA-Cursor kopieren
+* Wort unter dem NVDA-Cursor kopieren
+* Kopieren vom Anfang der aktuellen zeile bis zum NVDA-Cursor
+* Kopieren vom NVDA-Cursor bis zum Ende der Zeile
+* Kopieren vom Anfang des Wortes bis zum NVDA-Cursor
+* Kopieren vom NVDA-Cursor bis zum Ende des Wortes
 
-None of these commands have key bindings by default. Please use the input
-gestures dialog located under the NVDA settings menu to set them. All of the
-commands provided by this add-on can be found under the "text review"
-category. More information about setting and modifying input gestures can be
-found in the NVDA user guide.
+Keiner dieser Befehle hat standardmäßig Tastenbelegungen zugewiesen. Bitte
+benutzen Sie den Eingaben-Dialog unter Einstellungen im NVDA-Menü, um
+Tastenkürzel  zuzuweisen. Alle Befehle, die von dieser Erweiterung
+bereitgestellt werden, finden Sie unter der Kategorie "Befehle zum
+Betrachten von Text". Weitere Informationen zum Einstellen und ändern von
+Eingaben finden Sie im NVDA-Benutzerhandbuch.
 
 ## Lizenz
 
