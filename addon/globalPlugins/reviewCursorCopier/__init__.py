@@ -33,29 +33,29 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
     def script_copyLineToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_LINE)
     # Translators: Describes the "copy line to clipboard" command.
-    script_copyLineToClipboard.__doc__ = "Copies the line under the review cursor to the clipboard."
+    script_copyLineToClipboard.__doc__ = _("Copies the line under the review cursor to the clipboard.")
 
     def script_copyWordToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_WORD)
     # Translators: Describes the "copy word to clipboard" command.
-    script_copyWordToClipboard.__doc__ = "Copies the word under the review cursor to the clipboard."
+    script_copyWordToClipboard.__doc__ = _("Copies the word under the review cursor to the clipboard.")
 
     def script_copyPrecedingLineToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_LINE, copyFrom="endToStart")
     # Translators: Describes the "copy preceding line to clipboard" command.
-    script_copyPrecedingLineToClipboard.__doc__ = "Copies the text from the start of the current line to the clipboard."
+    script_copyPrecedingLineToClipboard.__doc__ = _("Copies the text from the start of the current line to the clipboard.")
 
     def script_copyRemainingLineToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_LINE, copyFrom="startToStart")
     # Translators: Describes the "copy remaining line to clipboard" command.
-    script_copyRemainingLineToClipboard.__doc__ = "Copies the text until the end of the current line to the clipboard."
+    script_copyRemainingLineToClipboard.__doc__ = _("Copies the text until the end of the current line to the clipboard.")
 
     def script_copyPrecedingWordToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_WORD, copyFrom="endToStart")
     # Translators: Describes the "copy preceding word to clipboard" command.
-    script_copyPrecedingWordToClipboard.__doc__ = "Copies the text from the start of the current word to the clipboard."
+    script_copyPrecedingWordToClipboard.__doc__ = _("Copies the text from the start of the current word to the clipboard.")
 
     def script_copyRemainingWordToClipboard(self, gesture):
         copyReviewUnitToClipboard(textInfos.UNIT_WORD, copyFrom="startToStart")
     # Translators: Describes the "copy remaining word to clipboard" command.
-    script_copyRemainingWordToClipboard.__doc__ = "Copies the text until the end of the current word to the clipboard."
+    script_copyRemainingWordToClipboard.__doc__ = _("Copies the text until the end of the current word to the clipboard.")
