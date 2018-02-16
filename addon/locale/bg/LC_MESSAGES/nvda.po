@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-05 13:03+0200\n"
+"PO-Revision-Date: 2018-02-09 10:56+0200\n"
 "Last-Translator: Kostadin Kolev <k_kolev1985@mail.bg>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
@@ -24,6 +24,30 @@ msgstr "Копирано"
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
 msgstr "Неуспешно копиране"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Копира реда под курсора за преглед в клипборда."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Копира думата под курсора за преглед в клипборда."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "Копира текста от началото на текущия ред в клипборда."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Копира текста до края на текущия ред в клипборда."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Копира текста от началото на текущата дума в клипборда."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Копира текста до края на текущата дума в клипборда."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.

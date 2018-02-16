@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-05 16:40+0100\n"
+"PO-Revision-Date: 2018-02-12 11:36+0100\n"
 "Last-Translator: Juan C. BuÃ±o <oprisniki@gmail.com>\n"
 "Language-Team: Spanish translation team <oprisniki@gmail.com>\n"
 "Language: es\n"
@@ -24,6 +24,30 @@ msgstr "Copiado"
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
 msgstr "Falló al copiar"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Copia la línea bajo el cursor de revisión al portapapeles."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Copia la palabra bajo el cursor de revisión al portapapeles."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "Copia el texto desde el comienzo de la línea actual al portapapeles."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Copia el texto hasta el final de la línea actual al portapapeles."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Copia el texto desde el comienzo de la palabra actual al portapapeles."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Copia el texto hasta el final de la palabra actual al portapapeles."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.

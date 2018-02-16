@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-05 15:49+0200\n"
+"PO-Revision-Date: 2018-02-09 11:38+0200\n"
 "Last-Translator: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
 "Language-Team: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
 "Language: fi\n"
@@ -25,6 +25,38 @@ msgstr "Kopioitu"
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
 msgstr "Kopiointi ei onnistu"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Kopioi tarkastelukohdistimen alla olevan rivin leikepöydälle."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Kopioi tarkastelukohdistimen alla olevan sanan leikepöydälle."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr ""
+"Kopioi leikepöydälle tekstin nykyisen rivin alusta tarkastelukohdistimen "
+"sijaintiin saakka."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr ""
+"Kopioi tekstin leikepöydälle tarkastelukohdistimen sijainnista nykyisen "
+"rivin loppuun saakka."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr ""
+"Kopioi leikepöydälle tekstin nykyisen sanan alusta tarkastelukohdistimen "
+"sijaintiin saakka."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr ""
+"Kopioi tekstin leikepöydälle tarkastelukohdistimen sijainnista nykyisen "
+"sanan loppuun saakka."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.

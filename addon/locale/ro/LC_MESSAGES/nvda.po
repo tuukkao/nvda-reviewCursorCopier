@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-05 18:40+0300\n"
+"PO-Revision-Date: 2018-02-09 22:51+0200\n"
+"Last-Translator: Florian Ionașcu <florianionascu@hotmail.com>\n"
+"Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: Florian Ionașcu <florianionascu@hotmail.com>\n"
-"Language-Team: \n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #. Translators: Copying to the clipboard was successful.
 msgid "Copied"
@@ -24,6 +24,30 @@ msgstr "Copiat"
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
 msgstr "Eșuare la copiere"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Copiază linia de sub cursorul de examinare în planșetă."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Copiază cuvântul de sub cursorul de examinare în planșetă."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "Copiază textul de la începutul liniei curente în planșetă."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Copiază textul până la sfârșitul liniei curente în planșetă."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Copiază textul de la începutul cuvântului curent în planșetă."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Copiază textul până la sfârșitul cuvântului curent în planșetă."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -37,5 +61,5 @@ msgid ""
 "the clipboard. Please consult the documentation for more information."
 msgstr ""
 "Oferă o varietate de comenzi pentru copierea textului de sub cursorul de "
-"examinare pe planșetă. Vă rugăm să consultați documentația pentru mai "
-"multe informații."
+"examinare pe planșetă. Vă rugăm să consultați documentația pentru mai multe "
+"informații."
