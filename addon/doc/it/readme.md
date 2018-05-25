@@ -1,8 +1,8 @@
 # Review Cursor Copier #
 
-* Author: Tuukka Ojala <tuukka.ojala@gmail.com>
-* Download [stable version][1]
-* Download [development version][2]
+* Autore: Tuukka Ojala <tuukka.ojala@gmail.com>
+* Download [versione stabile][1]
+* Download [versione in sviluppo][2]
 
 Questo componente aggiuntivo fornisce numerosi comandi per copiare il testo
 presente vicino al cursore di controllo  negli appunti. Sono attualmente
