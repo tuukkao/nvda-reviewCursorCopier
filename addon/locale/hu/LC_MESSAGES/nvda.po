@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-28 10:59+0100\n"
+"PO-Revision-Date: 2018-06-15 11:46+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: HU <LL@li.org>\n"
 "Language: hu\n"
@@ -24,6 +24,30 @@ msgstr "Másolva"
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
 msgstr "Nem sikerült másolni"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Az áttekintő kurzor alatti sort a vágólapra másolja."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Az áttekintő kurzor alatti szót a vágólapra másolja."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "A szöveget az aktuális sor elejétől a vágólapra másolja."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "A szöveget az aktuális sor végéig a vágólapra másolja."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "A szöveget az aktuális szó elejétől a vágólapra másolja."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "A szöveget az aktuális szó végéig a vágólapra másolja."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
