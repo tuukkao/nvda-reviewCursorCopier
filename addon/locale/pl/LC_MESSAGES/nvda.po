@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-06-22 01:45+0100\n"
+"PO-Revision-Date: 2018-07-28 20:46+0100\n"
 "Last-Translator: zvonimir stanecic <zvonimirek222@yandex.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -25,6 +25,32 @@ msgstr "skopiowane "
 msgid "Failed to copy"
 msgstr "Nie można skopiować"
 
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Kopiuje do schowka wiersz znajdujący się pod kursorem przeglądu."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Kopiuje do schowka słowo znajdujące się pod kursorem przeglądu."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr ""
+"Kopiuje do schowka tekst z początku wiersza znajdującego się aktualnie pod "
+"kursorem przeglądu."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Kopiuje do schowka tekst do końca danego wiersza."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Kopiuje do schowka tekst od początku danego słowa."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Kopiuje do schowka tekst od końca danego słowa."
+
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "Review Cursor Copier"
@@ -36,5 +62,5 @@ msgid ""
 "Provides various commands for copying the text under the review cursor to "
 "the clipboard. Please consult the documentation for more information."
 msgstr ""
-"Udostępnia różne komendy do kopiowania tekstu pod schowkiem przeglądu do "
-"schowka. Proszę sprawdzić dokumentację dla więcej informacji."
+"Udostępnia różne komendy służące do kopiowania tekstu pod kursorem przeglądu "
+"do schowka. Więcej informacji można znaleźć w dokumentacji."
