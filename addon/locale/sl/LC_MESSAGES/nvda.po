@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the reviewCursorCopier package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: reviewCursorCopier 1.0\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2017-04-30 00:10+1000\n"
+"PO-Revision-Date: 2018-08-22 16:25+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Translators: Copying to the clipboard was successful.
+msgid "Copied"
+msgstr "Preslikano"
+
+#. Translators: Copying to the clipboard failed.
+msgid "Failed to copy"
+msgstr "Preslikava spodletela"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Preslika vrstico pod pregledno utripalko v odložišče."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Preslika beseedo pod pregledno utripalko v odložišče."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "Preslika besedilo od začetka trenutne vrstice v odložišče."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Preslika besedilo do konca trenutn vrstice v odložišče."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Preslika besedilo od začetka trenutne besede v odložišče."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Preslika besedilo do konca trenutn besede v odložišče."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Review Cursor Copier"
+msgstr "Preslikovalnik Pregledne Utripalke"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Provides various commands for copying the text under the review cursor to "
+"the clipboard. Please consult the documentation for more information."
+msgstr ""
+"Oskrbuje različne ukaze za preslikavo besedila pod pregledno utripalko v "
+"odložišče. Prosimo, glejte dokumentacijo za več informacij."
