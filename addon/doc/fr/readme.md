@@ -4,9 +4,9 @@
 * Télécharger [version stable][1]
 * Télécharger [version de développement][2]
 
-Ce module complémentaire NVDA fournit diverses commandes pour copier le
-texte sous le curseur de revue dans le presse-papiers. Actuellement, les
-commandes suivantes sont implémentées :
+Cette extension NVDA fournit diverses commandes pour copier le texte sous le
+curseur de revue dans le presse-papiers. Actuellement, les commandes
+suivantes sont implémentées :
 
 * Copier la ligne sous le curseur de revue
 * Copier le mot sous le curseur de revue
