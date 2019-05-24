@@ -1,8 +1,8 @@
 # Kopierer für den NVDA-Cursor #
 
 * Autor: Tuukka Ojala<tuukka.ojala@gmail.com>
-* [stabile version][1] herunterladen
-* [Testversion][2] herunterladen
+* [Stabile Version herunterladen][1]
+* [Entwicklerversion herunterladen][2]
 
 Diese NVDA-Erweiterung bietet verschiedene Befehle, um den Text unter dem
 NVDA-Cursor in die Zwischenablage zu kopieren. Derzeit sind folgende Befehle
