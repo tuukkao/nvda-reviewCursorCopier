@@ -5,8 +5,8 @@
 * [Entwicklerversion herunterladen][2]
 
 Diese NVDA-Erweiterung bietet verschiedene Befehle, um den Text unter dem
-NVDA-Cursor in die Zwischenablage zu kopieren. Derzeit sind folgende Befehle
-implementiert:
+NVDA-Cursor in die Zwischenablage zu kopieren. Derzeit gibt es folgende
+Befehle:
 
 * Zeile unter dem NVDA-Cursor kopieren
 * Wort unter dem NVDA-Cursor kopieren
