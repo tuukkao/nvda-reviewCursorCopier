@@ -1,21 +1,24 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the reviewCursorCopier package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Hrvatska lokalizacija za NVDA.
+# Copyright (C) 2006-2019 NVDA contributors <https://www.nvda-project.org>
+# This file is distributed under the same license as the virtualRevision package.
+# Zvonimir Stanečić <zvonimirek222@yandex.com>, 2017.
+# Milo Ivir <mail@milotype.de>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: reviewCursorCopier 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2017-04-30 00:10+1000\n"
-"PO-Revision-Date: 2017-05-06 11:59+0100\n"
-"Last-Translator: zvonimir stanecic <zvonimirek222@yandex.com>\n"
+"PO-Revision-Date: 2019-11-15 23:29+0100\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: hr <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #. Translators: Copying to the clipboard was successful.
 msgid "Copied"
@@ -23,12 +26,36 @@ msgstr "Kopirano"
 
 #. Translators: Copying to the clipboard failed.
 msgid "Failed to copy"
-msgstr "Neuspješno kopiranje"
+msgstr "Neuspjelo kopiranje"
+
+#. Translators: Describes the "copy line to clipboard" command.
+msgid "Copies the line under the review cursor to the clipboard."
+msgstr "Kopira redak ispod preglednog kursora u međuspremnik."
+
+#. Translators: Describes the "copy word to clipboard" command.
+msgid "Copies the word under the review cursor to the clipboard."
+msgstr "Kopira riječ ispod preglednog kursora u međuspremnik."
+
+#. Translators: Describes the "copy preceding line to clipboard" command.
+msgid "Copies the text from the start of the current line to the clipboard."
+msgstr "Kopira tekst od početka trenutačnog retka u međuspremnik."
+
+#. Translators: Describes the "copy remaining line to clipboard" command.
+msgid "Copies the text until the end of the current line to the clipboard."
+msgstr "Kopira tekst do kraja trenutačnog retka u međuspremnik."
+
+#. Translators: Describes the "copy preceding word to clipboard" command.
+msgid "Copies the text from the start of the current word to the clipboard."
+msgstr "Kopira tekst od početka trenutačne riječi u međuspremnik."
+
+#. Translators: Describes the "copy remaining word to clipboard" command.
+msgid "Copies the text until the end of the current word to the clipboard."
+msgstr "Kopira tekst do kraja trenutačne riječi u međuspremnik."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "Review Cursor Copier"
-msgstr "Review Cursor Copier"
+msgstr "Kopiranje preglednog kursora"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
@@ -36,5 +63,5 @@ msgid ""
 "Provides various commands for copying the text under the review cursor to "
 "the clipboard. Please consult the documentation for more information."
 msgstr ""
-"Omogućuje razne prečace za kopiranje preglednog kursora u međuspremnik. "
-"Molimo, pročitajte uputstvo za više informacija."
+"Pruža razne prečace za kopiranje preglednog kursora u međuspremnik. Za "
+"daljnje informacije, pročitaj dokumentaciju."
