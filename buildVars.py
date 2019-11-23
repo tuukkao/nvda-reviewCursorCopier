@@ -21,7 +21,7 @@ addon_info = {
 	# version
 	"addon_version" : "1.2",
 	# Author(s)
-	"addon_author" : u"Tuukka Ojala <tuukka.ojala@gmail.com>",
+	"addon_author" : u"Tuukka Ojala <tuukka.ojala@iki.fi>",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name
