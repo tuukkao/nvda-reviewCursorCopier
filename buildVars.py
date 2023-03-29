@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Provides various commands for copying the text under the review cursor to the clipboard. Please consult the documentation for more information."""),
 	# version
-	"addon_version": "1.5.1",
+	"addon_version": "1.5.2",
 	# Author(s)
 	"addon_author": "Tuukka Ojala <tuukka.ojala@iki.fi>",
 	# URL for the add-on documentation support
@@ -35,7 +35,7 @@ addon_info = {
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
-	"addon_minimumNVDAVersion": "2017.2",
+	"addon_minimumNVDAVersion": "0.0.0",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
 	"addon_lastTestedNVDAVersion": "2023.1",
 	# Add-on update channel (default is None, denoting stable releases,
