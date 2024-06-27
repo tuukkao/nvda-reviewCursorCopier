@@ -18,7 +18,8 @@ def copyReviewUnitToClipboard(unit, copyFrom=None):
         info.expand(unit)
         if copyFrom:
             info.setEndPoint(pos, copyFrom)
-        copyStatus = info.copyToClipboard()
+        text = info.clipboardText.strip()
+        copyStatus = api.copyToClip(text)
         if not copyStatus:
             raise RuntimeError
         # Translators: Copying to the clipboard was successful.
