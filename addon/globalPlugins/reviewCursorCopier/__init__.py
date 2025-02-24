@@ -2,12 +2,16 @@
 # (C) 2017 Tuukka Ojala <tuukka.ojala@gmail.com>
 # Distributed under GNU GPL V2
 
+import re
+
 import addonHandler
 import api
 import globalCommands
 import globalPluginHandler
 import textInfos
 import ui
+
+RE_URL = re.compile(r"[a-zA-Z]+://[^ ]*")
 
 addonHandler.initTranslation()
 
@@ -60,3 +64,24 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
         copyReviewUnitToClipboard(textInfos.UNIT_WORD, copyFrom="startToStart")
     # Translators: Describes the "copy remaining word to clipboard" command.
     script_copyRemainingWordToClipboard.__doc__ = _("Copies the text until the end of the current word to the clipboard.")
+
+    def script_copyUrlToClipboard(self, gesture):
+        try:
+            info = api.getReviewPosition()
+            info.expand(textInfos.UNIT_LINE)
+            m = RE_URL.search(info.text)
+            if not m:
+                # Translators: There was no URL on the line under the review
+                # cursor.
+                ui.message(_("No URL on this line"))
+                return
+            copyStatus = api.copyToClip(m.group(0))
+            if not copyStatus:
+                raise RuntimeError
+            # Translators: Copying to the clipboard was successful.
+            ui.message(_("Copied"))
+        except:
+            # Translators: Copying to the clipboard failed.
+            ui.message(_("Failed to copy"))
+    # Translators: Describes the "copy URL to clipboard" command.
+    script_copyUrlToClipboard.__doc__ = _("Copies the first URL on the line under the review cursor to the clipboard.")
